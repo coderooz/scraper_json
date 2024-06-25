@@ -1,0 +1,45 @@
+{
+    "toscrape": {
+        "website": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "pathway" : {
+            "page_title": {"tag":"title","attr":{},"type":"find","get":"<stext>"},
+            "all_urls": {"tag": "a", "attr":{},"type":"find_all","get":"href"},
+            "catg":{
+                "tag": "#default > div.container-fluid.page > div > div > aside > div.side_categories > ul > li > ul > li",
+                "type": "select", 
+                "attr": {},
+                "inner": {
+                    "text": "<stext>",
+                    "link": {"tag":"a","attr":{}, "type":"find", "get":"href"}
+                }
+            },
+            "products": {
+                "tag":"#default > div.container-fluid.page > div > div > div > section > div:nth-child(2) > ol > li",
+                "type": "select",
+                "inner": {
+                    "title": {"tag": "h3", "attr":{}, "type":"find","get":"<stext>"},
+                    "image": {"tag": "img","attr":{"class": "thumbnail"},"type":"find","get":"src"},
+                    "price": {"tag": "p", "attr":{"class": "price_color"},"type":"find","get":"<stext>"},
+                    "link": {"tag": "a", "attr":{}, "type":"find" ,"get":"href"},
+                    "availability": {"tag": "p", "attr":{"class":"availability"}, "type":"find" ,"get":"<stext>"}
+                } 
+            }
+        } 
+    },
+    "amazon":{
+        "website":"https://www.amazon.com?s=keyboard",
+        "pathway":{
+            "products":{
+                "tag": "#search > div.s-desktop-width-max.s-desktop-content.s-opposite-dir.s-wide-grid-style.sg-row > div.sg-col-20-of-24.s-matching-dir.sg-col-16-of-20.sg-col.sg-col-8-of-12.sg-col-12-of-16 > div > span.rush-component.s-latency-cf-section > div.s-main-slot.s-result-list.s-search-results.sg-row > div[data-component-type=s-search-result]",
+                "type":"select",
+                "inner": {
+                    "asin": "data-asin",
+                    "title": {"tag": "span.a-size-medium.a-color-base.a-text-normal", "get": "<stext>", "type": "select_one"},
+                    "link": {"tag":"a.a-link-normal.s-underline-text.s-underline-link-text.s-link-style.a-text-normal", "type": "select_one","get":"href"},
+                    "image": {"tag":"img.s-image.s-image-optimized-rendering", "type":"select_one","inner":{"img":"src","alt":"alt","scrset":"scrset"}},
+                    "pricing": {"tag":"span.a-offscreen", "type":"select_one", "get":"<stext>"}
+                }    
+            }
+        }
+    }
+}
