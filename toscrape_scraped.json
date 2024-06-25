@@ -1,0 +1,280 @@
+{
+    "page_title": "Books | \n     Books to Scrape - Sandbox",
+    "all_urls": ["../../../index.html", "../../../index.html", "index.html", "../books/travel_2/index.html", "../books/mystery_3/index.html", "../books/historical-fiction_4/index.html", "../books/sequential-art_5/index.html", "../books/classics_6/index.html", "../books/philosophy_7/index.html", "../books/romance_8/index.html", "../books/womens-fiction_9/index.html", "../books/fiction_10/index.html", "../books/childrens_11/index.html", "../books/religion_12/index.html", "../books/nonfiction_13/index.html", "../books/music_14/index.html", "../books/default_15/index.html", "../books/science-fiction_16/index.html", "../books/sports-and-games_17/index.html", "../books/add-a-comment_18/index.html", "../books/fantasy_19/index.html", "../books/new-adult_20/index.html", "../books/young-adult_21/index.html", "../books/science_22/index.html", "../books/poetry_23/index.html", "../books/paranormal_24/index.html", "../books/art_25/index.html", "../books/psychology_26/index.html", "../books/autobiography_27/index.html", "../books/parenting_28/index.html", "../books/adult-fiction_29/index.html", "../books/humor_30/index.html", "../books/horror_31/index.html", "../books/history_32/index.html", "../books/food-and-drink_33/index.html", "../books/christian-fiction_34/index.html", "../books/business_35/index.html", "../books/biography_36/index.html", "../books/thriller_37/index.html", "../books/contemporary_38/index.html", "../books/spirituality_39/index.html", "../books/academic_40/index.html", "../books/self-help_41/index.html", "../books/historical_42/index.html", "../books/christian_43/index.html", "../books/suspense_44/index.html", "../books/short-stories_45/index.html", "../books/novels_46/index.html", "../books/health_47/index.html", "../books/politics_48/index.html", "../books/cultural_49/index.html", "../books/erotica_50/index.html", "../books/crime_51/index.html", "../../a-light-in-the-attic_1000/index.html", "../../a-light-in-the-attic_1000/index.html", "../../tipping-the-velvet_999/index.html", "../../tipping-the-velvet_999/index.html", "../../soumission_998/index.html", "../../soumission_998/index.html", "../../sharp-objects_997/index.html", "../../sharp-objects_997/index.html", "../../sapiens-a-brief-history-of-humankind_996/index.html", "../../sapiens-a-brief-history-of-humankind_996/index.html", "../../the-requiem-red_995/index.html", "../../the-requiem-red_995/index.html", "../../the-dirty-little-secrets-of-getting-your-dream-job_994/index.html", "../../the-dirty-little-secrets-of-getting-your-dream-job_994/index.html", "../../the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html", "../../the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html", "../../the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html", "../../the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html", "../../the-black-maria_991/index.html", "../../the-black-maria_991/index.html", "../../starving-hearts-triangular-trade-trilogy-1_990/index.html", "../../starving-hearts-triangular-trade-trilogy-1_990/index.html", "../../shakespeares-sonnets_989/index.html", "../../shakespeares-sonnets_989/index.html", "../../set-me-free_988/index.html", "../../set-me-free_988/index.html", "../../scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html", "../../scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html", "../../rip-it-up-and-start-again_986/index.html", "../../rip-it-up-and-start-again_986/index.html", "../../our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html", "../../our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html", "../../olio_984/index.html", "../../olio_984/index.html", "../../mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html", "../../mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html", "../../libertarianism-for-beginners_982/index.html", "../../libertarianism-for-beginners_982/index.html", "../../its-only-the-himalayas_981/index.html", "../../its-only-the-himalayas_981/index.html", "page-2.html"],
+    "catg": {
+        "inner": [{
+            "text": "Travel",
+            "link": "../books/travel_2/index.html"
+        }, {
+            "text": "Mystery",
+            "link": "../books/mystery_3/index.html"
+        }, {
+            "text": "Historical Fiction",
+            "link": "../books/historical-fiction_4/index.html"
+        }, {
+            "text": "Sequential Art",
+            "link": "../books/sequential-art_5/index.html"
+        }, {
+            "text": "Classics",
+            "link": "../books/classics_6/index.html"
+        }, {
+            "text": "Philosophy",
+            "link": "../books/philosophy_7/index.html"
+        }, {
+            "text": "Romance",
+            "link": "../books/romance_8/index.html"
+        }, {
+            "text": "Womens Fiction",
+            "link": "../books/womens-fiction_9/index.html"
+        }, {
+            "text": "Fiction",
+            "link": "../books/fiction_10/index.html"
+        }, {
+            "text": "Childrens",
+            "link": "../books/childrens_11/index.html"
+        }, {
+            "text": "Religion",
+            "link": "../books/religion_12/index.html"
+        }, {
+            "text": "Nonfiction",
+            "link": "../books/nonfiction_13/index.html"
+        }, {
+            "text": "Music",
+            "link": "../books/music_14/index.html"
+        }, {
+            "text": "Default",
+            "link": "../books/default_15/index.html"
+        }, {
+            "text": "Science Fiction",
+            "link": "../books/science-fiction_16/index.html"
+        }, {
+            "text": "Sports and Games",
+            "link": "../books/sports-and-games_17/index.html"
+        }, {
+            "text": "Add a comment",
+            "link": "../books/add-a-comment_18/index.html"
+        }, {
+            "text": "Fantasy",
+            "link": "../books/fantasy_19/index.html"
+        }, {
+            "text": "New Adult",
+            "link": "../books/new-adult_20/index.html"
+        }, {
+            "text": "Young Adult",
+            "link": "../books/young-adult_21/index.html"
+        }, {
+            "text": "Science",
+            "link": "../books/science_22/index.html"
+        }, {
+            "text": "Poetry",
+            "link": "../books/poetry_23/index.html"
+        }, {
+            "text": "Paranormal",
+            "link": "../books/paranormal_24/index.html"
+        }, {
+            "text": "Art",
+            "link": "../books/art_25/index.html"
+        }, {
+            "text": "Psychology",
+            "link": "../books/psychology_26/index.html"
+        }, {
+            "text": "Autobiography",
+            "link": "../books/autobiography_27/index.html"
+        }, {
+            "text": "Parenting",
+            "link": "../books/parenting_28/index.html"
+        }, {
+            "text": "Adult Fiction",
+            "link": "../books/adult-fiction_29/index.html"
+        }, {
+            "text": "Humor",
+            "link": "../books/humor_30/index.html"
+        }, {
+            "text": "Horror",
+            "link": "../books/horror_31/index.html"
+        }, {
+            "text": "History",
+            "link": "../books/history_32/index.html"
+        }, {
+            "text": "Food and Drink",
+            "link": "../books/food-and-drink_33/index.html"
+        }, {
+            "text": "Christian Fiction",
+            "link": "../books/christian-fiction_34/index.html"
+        }, {
+            "text": "Business",
+            "link": "../books/business_35/index.html"
+        }, {
+            "text": "Biography",
+            "link": "../books/biography_36/index.html"
+        }, {
+            "text": "Thriller",
+            "link": "../books/thriller_37/index.html"
+        }, {
+            "text": "Contemporary",
+            "link": "../books/contemporary_38/index.html"
+        }, {
+            "text": "Spirituality",
+            "link": "../books/spirituality_39/index.html"
+        }, {
+            "text": "Academic",
+            "link": "../books/academic_40/index.html"
+        }, {
+            "text": "Self Help",
+            "link": "../books/self-help_41/index.html"
+        }, {
+            "text": "Historical",
+            "link": "../books/historical_42/index.html"
+        }, {
+            "text": "Christian",
+            "link": "../books/christian_43/index.html"
+        }, {
+            "text": "Suspense",
+            "link": "../books/suspense_44/index.html"
+        }, {
+            "text": "Short Stories",
+            "link": "../books/short-stories_45/index.html"
+        }, {
+            "text": "Novels",
+            "link": "../books/novels_46/index.html"
+        }, {
+            "text": "Health",
+            "link": "../books/health_47/index.html"
+        }, {
+            "text": "Politics",
+            "link": "../books/politics_48/index.html"
+        }, {
+            "text": "Cultural",
+            "link": "../books/cultural_49/index.html"
+        }, {
+            "text": "Erotica",
+            "link": "../books/erotica_50/index.html"
+        }, {
+            "text": "Crime",
+            "link": "../books/crime_51/index.html"
+        }]
+    },
+    "products": {
+        "inner": [{
+            "title": "A Light in the ...",
+            "image": {},
+            "price": {},
+            "link": "../../a-light-in-the-attic_1000/index.html",
+            "availability": {}
+        }, {
+            "title": "Tipping the Velvet",
+            "image": {},
+            "price": {},
+            "link": "../../tipping-the-velvet_999/index.html",
+            "availability": {}
+        }, {
+            "title": "Soumission",
+            "image": {},
+            "price": {},
+            "link": "../../soumission_998/index.html",
+            "availability": {}
+        }, {
+            "title": "Sharp Objects",
+            "image": {},
+            "price": {},
+            "link": "../../sharp-objects_997/index.html",
+            "availability": {}
+        }, {
+            "title": "Sapiens: A Brief History ...",
+            "image": {},
+            "price": {},
+            "link": "../../sapiens-a-brief-history-of-humankind_996/index.html",
+            "availability": {}
+        }, {
+            "title": "The Requiem Red",
+            "image": {},
+            "price": {},
+            "link": "../../the-requiem-red_995/index.html",
+            "availability": {}
+        }, {
+            "title": "The Dirty Little Secrets ...",
+            "image": {},
+            "price": {},
+            "link": "../../the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+            "availability": {}
+        }, {
+            "title": "The Coming Woman: A ...",
+            "image": {},
+            "price": {},
+            "link": "../../the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+            "availability": {}
+        }, {
+            "title": "The Boys in the ...",
+            "image": {},
+            "price": {},
+            "link": "../../the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+            "availability": {}
+        }, {
+            "title": "The Black Maria",
+            "image": {},
+            "price": {},
+            "link": "../../the-black-maria_991/index.html",
+            "availability": {}
+        }, {
+            "title": "Starving Hearts (Triangular Trade ...",
+            "image": {},
+            "price": {},
+            "link": "../../starving-hearts-triangular-trade-trilogy-1_990/index.html",
+            "availability": {}
+        }, {
+            "title": "Shakespeare's Sonnets",
+            "image": {},
+            "price": {},
+            "link": "../../shakespeares-sonnets_989/index.html",
+            "availability": {}
+        }, {
+            "title": "Set Me Free",
+            "image": {},
+            "price": {},
+            "link": "../../set-me-free_988/index.html",
+            "availability": {}
+        }, {
+            "title": "Scott Pilgrim's Precious Little ...",
+            "image": {},
+            "price": {},
+            "link": "../../scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+            "availability": {}
+        }, {
+            "title": "Rip it Up and ...",
+            "image": {},
+            "price": {},
+            "link": "../../rip-it-up-and-start-again_986/index.html",
+            "availability": {}
+        }, {
+            "title": "Our Band Could Be ...",
+            "image": {},
+            "price": {},
+            "link": "../../our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+            "availability": {}
+        }, {
+            "title": "Olio",
+            "image": {},
+            "price": {},
+            "link": "../../olio_984/index.html",
+            "availability": {}
+        }, {
+            "title": "Mesaerion: The Best Science ...",
+            "image": {},
+            "price": {},
+            "link": "../../mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+            "availability": {}
+        }, {
+            "title": "Libertarianism for Beginners",
+            "image": {},
+            "price": {},
+            "link": "../../libertarianism-for-beginners_982/index.html",
+            "availability": {}
+        }, {
+            "title": "It's Only the Himalayas",
+            "image": {},
+            "price": {},
+            "link": "../../its-only-the-himalayas_981/index.html",
+            "availability": {}
+        }]
+    }
+}
